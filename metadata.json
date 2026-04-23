@@ -1,0 +1,6 @@
+{
+  "name": "Van Gogh Voice",
+  "description": "Une expérience immersive où Vincent van Gogh vous parle. Retrouvez l'œuvre qui vous a touché.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["Real-time Voice", "E-commerce", "Art History"]
+}
